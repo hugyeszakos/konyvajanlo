@@ -1,0 +1,43 @@
+body{
+    background-image: url("konyv_hatter.jpg");
+    background-size: 500px 500px;
+    background-repeat: repeat;
+}
+
+#keret{
+    background-color: #ca8;
+    width: 720px;
+    margin: auto;
+    border:solid #eca 1px;
+}
+
+.konyv{
+    background-color: #eca;
+    padding: 10px;
+    border: 1px solid #432;
+    border-radius: 5px;     /*keret kerekítése*/
+    margin: 20px;
+    box-shadow: 5px 5px 10px #432;  /*árnyék*/
+
+
+}
+
+.borito{
+    width: 120px;
+    float: left;
+    border: 1px solid #432;
+    
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.konyv h2{
+    text-align: left;
+    text-indent: 20px;
+}
+
+.konyv p{
+    padding-top:20px;
+}

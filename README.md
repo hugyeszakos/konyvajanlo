@@ -1,2 +1,1 @@
 # konyvajanlo
-# Hugyesz Ákos
